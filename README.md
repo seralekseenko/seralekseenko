@@ -1,16 +1,43 @@
-## Hi there 👋
+Header
+Backend & Infrastructure Engineer
+Java | Linux | Docker | Kubernetes | Networking
+currently learning Rust systems programming
 
-<!--
-**seralekseenko/seralekseenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Short bio
 
-Here are some ideas to get you started:
+Коротко:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+8+ years Java backend
+cloud & infrastructure
+networking
+operational systems
+interest in robotics/drones/embedded
+
+Tech stack
+
+НЕ величезний список.
+
+Тільки сильне:
+
+Java
+Spring
+PostgreSQL
+Docker
+Kubernetes
+Linux
+GCP
+Git
+Bash
+Rust
+
+
+Current focus
+
+Наприклад:
+
+Rust async systems
+networking
+telemetry
+automation
+infrastructure tooling
+
